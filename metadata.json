@@ -1,0 +1,6 @@
+{
+  "name": "University Resource Hub",
+  "description": "Comprehensive role-tailored academic portal featuring resource catalogs, appointment booking, document vault, and emergency support for students, faculty, advisors, and administrators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
